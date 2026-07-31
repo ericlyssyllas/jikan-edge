@@ -8,7 +8,7 @@
   "assets": { "directory": "./site" },
   "observability": { "enabled": true, "head_sampling_rate": 1 },
   "vars": {
-    "MAL_USER_AGENT": "jikan-edge/0.1 (+https://jikan-edge.lucas-hdo.workers.dev)",
+    "MAL_USER_AGENT": "jikan-edge/0.1 (+https://jikan-edge.ericlyssyllas.workers.dev)",
     "PROFILE_TTL_SECONDS": "21600",
     "LIST_TTL_SECONDS": "7200",
     "ANIME_TTL_SECONDS": "21600",
@@ -22,7 +22,7 @@
     {
       "binding": "DB",
       "database_name": "jikan-edge",
-      "database_id": "71f8a596-7855-47a5-906c-9a1cf46e12ee"
+      "database_id": "7d8f2e22-601b-439d-90b2-a008117c0074"
     }
   ],
   // namespace_id is an arbitrary integer scoped to your own Cloudflare account, so a fork can keep
